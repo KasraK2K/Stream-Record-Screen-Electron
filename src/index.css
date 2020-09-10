@@ -3,4 +3,14 @@ body {
   margin: auto;
   max-width: 38rem;
   padding: 2rem;
+  background-color: white;
+}
+
+#videoSelectBtn {
+  text-decoration: none;
+}
+
+.success {
+  color: hsl(171, 100%, 41%);
+  margin-right: 6px;
 }
